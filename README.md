@@ -19,7 +19,7 @@ To build an end-to-end **Movie Recommendation System** that:
 
 | Layer        | Tools Used              |
 |-------------|--------------------------|
-| **Frontend**| HTML, CSS, JavaScript (optional), Flask Templates |
+| **Frontend**| HTML, CSS, Flask Templates |
 | **Backend** | Python, Flask            |
 | **ML Model**| pandas, scikit-learn, numpy |
 | **Deployment** | Gunicorn, Nginx (optional), Heroku/Render/VPS |
